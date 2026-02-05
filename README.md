@@ -9,7 +9,6 @@ A curated collection of Java projects — small utilities, learning exercises, a
 - [Building and running](#building-and-running)
 - [Testing](#testing)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Repository structure
@@ -89,10 +88,6 @@ Contributions are welcome. Suggested workflow:
 5. Open a pull request describing the changes and rationale.
 
 Please include tests for new features and follow consistent code style across projects.
-
-## License
-
-If you have a preferred license, add a `LICENSE` file at the repository root. If no license is present, add one (for example, MIT, Apache-2.0) to make reuse and contributions clear.
 
 ## Contact
 
